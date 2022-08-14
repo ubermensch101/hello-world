@@ -1,0 +1,6 @@
+IIT Bombay photo- https://cdn1.byjus.com/wp-content/uploads/2018/11/jee/2017/10/06151651/IIT-Bombay.png
+IITians Pace photo- https://d2nlyei8v64kfj.cloudfront.net/uploads/c/2020/2/7075-c-2018-06-23.jpg
+Aditya Birla World Academy photo- https://images.uniapply.com/uploads/college/image/500/4610/Aditya_Birla_World_Academy_2580_Building_1.jpg
+Bootsrap home page- https://getbootstrap.com/docs/5.0/examples/album/
+Bootstrap navbar- https://www.w3schools.com/css/css_navbar.asp
+Bootstrap table with images- https://codepen.io/cristinaconacel/pen/OBKBPK
