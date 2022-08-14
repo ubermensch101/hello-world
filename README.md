@@ -1,5 +1,1 @@
-# hello-world
-
-Hi humans!
-
-This is part of the  Github tutorial!
+scp -r public_html/* <user_name>@mars.cse.iitb.ac.in:public_html/
